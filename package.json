@@ -1,0 +1,21 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack",
+    "watch" : "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
