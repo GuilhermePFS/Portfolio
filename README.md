@@ -5,7 +5,7 @@ Essa foi o primeiro portfólio que desenvolvi sozinho,  como foi o começo da mi
 Nesse projeto foi utilizado as seguintes linguagens:
  - html5
  - CSS
- - JavaScritp
+ - JavaScript
  - WebPack
 
 ---
