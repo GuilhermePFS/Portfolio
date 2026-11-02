@@ -9,6 +9,6 @@ Nesse projeto foi utilizado as seguintes linguagens:
  - WebPack
 
 ---
-Logo abaixo segue o link para ver como ficou
+Logo abaixo segue o link para ver como ficou.
 
 https://guilhermepfs.github.io/Portfolio/
